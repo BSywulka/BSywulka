@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 
 Welcome to my GitHub profile! I'm just getting started with GitHub and have completed the Introduction-to-GitHub skills activity.
 
