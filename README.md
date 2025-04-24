@@ -1,33 +1,18 @@
 ## Hello
 
-Welcome to my GitHub profile! I'm just getting started with GitHub and have completed the Introduction-to-GitHub skills activity.
-
+Welcome to my GitHub profile! I'm beginning my journey here and recently completed the Introduction-to-GitHub skills activity.
 🌟 What I'm Learning
-- Basic GitHub workflows: cloning, forking, branching, and pull requests.
-- How to navigate repositories and collaborate effectively.
+- Mastering basic GitHub workflows: cloning, forking, branching, and pull requests.
+- Gaining skills to navigate repositories and collaborate effectively.
+- Expanding my knowledge in data analytics, focusing on tools and techniques to analyze and visualize data effectively.
 
 🚀 Goals
-- Learn more about Git and GitHub to contribute to collaborative projects.
-- Expand my skills in coding and version control.
+- Develop a deeper understanding of Git and GitHub to contribute to collaborative projects.
+- Strengthen my data analytics expertise to work on meaningful data-driven projects.
+- Enhance my coding and version control abilities.
 
 📌 Current Activity
 - Completed: Introduction-to-GitHub skills activity 🏆
-- Next Up: Exploring open-source projects and learning Git commands!
+- Next Up: Exploring open-source projects, practicing Git commands, and applying my data analytics skills to real-world challenges!
 
-Feel free to check out my repositories and follow along as I grow my skills. Looking forward to connecting with the GitHub community!
-
-
-<!--
-**BSywulka/BSywulka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and follow along as I grow my data analytics and coding skills. I’m looking forward to connecting with the GitHub community!
